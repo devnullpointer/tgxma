@@ -1,0 +1,9 @@
+{
+  "versionName":"1.0.16",
+  "versionCode": "26",
+  "apkUrl":"https://raw.githubusercontent.com/devnullpointer/tgxma/master/apk/tgxma-1.0.16.apk",
+  "forceUpdate": false,
+  "whatsNew": "",
+  "active": true,
+  "showPosters": false
+}
