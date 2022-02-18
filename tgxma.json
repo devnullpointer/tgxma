@@ -5,5 +5,6 @@
   "forceUpdate": false,
   "whatsNew": "- Now supporting Android OS 5.1 (Lollipop) and higher.\n- Added exit fullscreen button\n- Added alternate source switcher (<--/-->) for select channels\n- Android TV coming soon.\n- Roku version now available.",
   "active": true,
-  "showPosters": true
+  "showPosters": true,
+  "useGoogleUpdate": true
 }
