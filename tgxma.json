@@ -3,7 +3,7 @@
   "versionCode": "27",
   "apkUrl":"https://raw.githubusercontent.com/devnullpointer/tgxma/master/apk/tgxma-1.0.18.apk",
   "forceUpdate": false,
-  "whatsNew": "- Now supporting Android OS 5.1 (Lollipop) and higher.\n- Added exit fullscreen button\n- Added alternate source switcher (<--/-->) for select channels\n- Android TV coming soon.\n- Roku version now available.",
+  "whatsNew": "- In-app updates added\n- Daydream service for radio screensaver\n- Added Twitch streams",
   "active": true,
   "showPosters": true,
   "useGoogleUpdate": true
