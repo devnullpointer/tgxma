@@ -1,6 +1,6 @@
 {
-  "versionName":"1.0.20",
-  "versionCode": "30",
+  "versionName":"1.0.19",
+  "versionCode": "29",
   "apkUrl":"https://raw.githubusercontent.com/devnullpointer/tgxma/master/apk/tgxma-1.0.20.apk",
   "forceUpdate": false,
   "whatsNew": "- In-app updates added\n- Daydream service for radio screensaver\n- Added Twitch streams",
