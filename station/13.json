@@ -1,1 +1,1 @@
-{"stationName":"Ράδιο Εψιλον 103","location":"Σέρρες, Ελλάδα","bitrate":"128","id":"13","url":"http://cast.radiohost.ovh:9035/stream","rds_rt":false}
+{"stationName":"Ράδιο Εψιλον 103","location":"Σέρρες, Ελλάδα","bitrate":"128","id":"13","url":"https://cast.radiohost.ovh/radioeps?mp=/stream","rds_rt":false}

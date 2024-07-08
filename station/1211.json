@@ -1,1 +1,1 @@
-{"stationName":"HIT FM 103,5","location":"Χαλκίδα, Ελλάδα","bitrate":"128","id":"1211","url":"http://cast.radiohost.ovh:9054","rds_rt":false}
+{"stationName":"HIT FM 103,5","location":"Χαλκίδα, Ελλάδα","bitrate":"128","id":"1211","url":"https://cast.radiohost.ovh:2200/proxy/hitfm?mp=/stream","rds_rt":false}
